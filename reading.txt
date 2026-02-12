@@ -1,0 +1,27 @@
+Flocking depends upon a localized view of the world.
+
+中文翻译
+
+群体运动依赖于对世界的局部视角。
+
+复杂群体秩序并不需要全局控制，
+只需要局部规则。
+
+这句话后来成为：
+
+复杂系统理论
+
+自组织理论
+
+群体智能
+
+人工生命
+
+的核心思想。
+
+Complex global behavior can emerge from the interaction of simple local rules.
+
+中文翻译
+
+复杂的全局行为
+可以从简单局部规则的相互作用中涌现
