@@ -7,3 +7,18 @@ In the original Pong design, the game assumes that increasing difficulty creates
 This single change significantly altered the gameplay experience. Skilled players were no longer rewarded with intensity or urgency. Instead, precise play resulted in longer rallies and a slower, more suspended game state. Rather than pushing the match toward a climax, successful play began to delay resolution.
 
 Through this change, the game shifted from a test of reaction speed to an exercise in endurance and restraint. It exposed how difficulty escalation is not a neutral design choice, but a value system embedded in the rules. By slowing the game down as players performed well, the game questioned the assumption that progress must always be tied to increasing pressure or challenge.
+
+In the Kingdom of Symmetry,  every match was flawless.
+The ball obeyed its angles.  Force grew in perfect proportion.  Up was always up.
+People believed  this was the law of nature.
+They had never seen  the one who wrote the rules.
+Until one day,  the King spoke—
+The ball no longer bounced,
+
+it fell.
+Some called it an accident.
+But then another decree:  Up became down.  The harder you pushed,  the slower you moved.
+Doubt began to spread.
+Perhaps the world  had never run on its own.
+Perhaps rules  were never natural—
+only maintained  by power.
