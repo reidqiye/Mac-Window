@@ -25,3 +25,33 @@ Complex global behavior can emerge from the interaction of simple local rules.
 
 复杂的全局行为
 可以从简单局部规则的相互作用中涌现
+
+Creative Coding and AI by Tim Rodenbroeker
+
+'Creative coding is a fundamentally human activity. A person works creatively with a computer, and code is the interface. Creative coding is a process. It’s not just about the end result, but above all about How it comes into being. If AI does the coding, strictly speaking it is no longer creative coding.'
+
+'Aside from all the political and systemic concerns, I believe that Creative Coding should remain an AI-free refuge, a space for learning and personal thriving.'
+
+Admittedly, many people now recommend using AI to assist with programming work. However, in reality, if AI is used in creative work, then the creative work itself loses its meaning, because creative work is a process of self-expression and self-presentation, and adding AI will make it become murky instead of pure.
+
+Random Notes from Claude Coding by Andrej Karpathy
+
+Judging from this tweet, LLM significantly improves work efficiency, reducing our workload, decreasing time spent on repetitive and mechanical tasks, and increasing time for creative work. However, this also brings a problem: our code foundation weakens over time. I think it's a very complex balance—we don't want to give up the efficiency of LLM, but we also don't want to weaken our foundation. I still haven't found a solution.
+
+GenAI Art Is the Least Imaginative Use of AI Imaginable by Ge Wang
+
+'All of these are arguably not “enjoyable” the majority of the time, and yet people still choose to undertake these activities. Why? Well, Suno quietly leaves out the part that the process (with its inherent challenges) is often what makes an activity ultimately meaningful and fulfilling.'
+
+'That brief exchange would domino into a “personal crisis of faith”, one that I would relish, for it would challenge my beliefs and continually beckon me to reflect on the role of technology for things that, like Music, really matter to us.'
+
+I enjoy encountering challenges to my personal beliefs because it helps me to think more deeply about my own thoughts, thereby supplementing my logic, making my personal beliefs stronger, and allowing me to go further.
+
+“I really enjoyed this assignment. I think its easy to adopt this toxic capitalistic mindset that everything you do or make has to be productive or “for” something. But when we follow that dogma, we forget to make beautiful things just because they’re beautiful, do funny things just because they’re funny, or make stupid projects just because they’re stupid. There’s so much beauty in doing things just because. It was nice to take a pause on life and make something just for the sake of making it (and for a grade, but that’s more of an afterthought).” — Matt
+
+This is what I think! I don't like searching meanings for my work, I do it just beacuse I want to do.
+
+'I resonate with Nick’s position — that the process not only shapes the outcome invariably, but constitutes an unalienable part of what the outcome is. It is the idea that art is to be made, for it is during the making that we realize what we are truly trying to say, far beyond the initial inkling of a concept. It is the observation that process brings its own intrinsic rewards, not despite of but because of the inherent challenges in making things for ourselves. This is all to say, process is not an obstacle to be removed on the path of creative expression. It is the path.'
+
+'There is always a price to pay; the danger of living in a world of frictionless convenience might well be cultural and individual stagnation.'
+
+'“What we need is a computer that isn’t labor-saving, but which increases the work for us to do.”— John Cage (from “Diary: Audience 1966”)'
